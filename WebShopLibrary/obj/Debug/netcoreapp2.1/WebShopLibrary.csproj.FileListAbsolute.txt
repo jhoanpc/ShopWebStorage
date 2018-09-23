@@ -1,0 +1,10 @@
+D:\MicrosoftVisualStudioProjects\WebApplicationEcommerce\WebShopLibrary\bin\Debug\netcoreapp2.1\WebShopLibrary.deps.json
+D:\MicrosoftVisualStudioProjects\WebApplicationEcommerce\WebShopLibrary\bin\Debug\netcoreapp2.1\WebShopLibrary.dll
+D:\MicrosoftVisualStudioProjects\WebApplicationEcommerce\WebShopLibrary\obj\Debug\netcoreapp2.1\WebShopLibrary.csproj.CoreCompileInputs.cache
+D:\MicrosoftVisualStudioProjects\WebApplicationEcommerce\WebShopLibrary\obj\Debug\netcoreapp2.1\WebShopLibrary.AssemblyInfoInputs.cache
+D:\MicrosoftVisualStudioProjects\WebApplicationEcommerce\WebShopLibrary\obj\Debug\netcoreapp2.1\WebShopLibrary.AssemblyInfo.cs
+D:\MicrosoftVisualStudioProjects\WebApplicationEcommerce\WebShopLibrary\bin\Debug\netcoreapp2.1\WebShopLibrary.runtimeconfig.json
+D:\MicrosoftVisualStudioProjects\WebApplicationEcommerce\WebShopLibrary\bin\Debug\netcoreapp2.1\WebShopLibrary.runtimeconfig.dev.json
+D:\MicrosoftVisualStudioProjects\WebApplicationEcommerce\WebShopLibrary\bin\Debug\netcoreapp2.1\WebShopLibrary.pdb
+D:\MicrosoftVisualStudioProjects\WebApplicationEcommerce\WebShopLibrary\obj\Debug\netcoreapp2.1\WebShopLibrary.dll
+D:\MicrosoftVisualStudioProjects\WebApplicationEcommerce\WebShopLibrary\obj\Debug\netcoreapp2.1\WebShopLibrary.pdb

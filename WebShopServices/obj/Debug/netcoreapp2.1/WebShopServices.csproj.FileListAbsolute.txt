@@ -1,0 +1,12 @@
+D:\MicrosoftVisualStudioProjects\WebApplicationEcommerce\WebShopServices\bin\Debug\netcoreapp2.1\WebShopServices.deps.json
+D:\MicrosoftVisualStudioProjects\WebApplicationEcommerce\WebShopServices\bin\Debug\netcoreapp2.1\WebShopServices.dll
+D:\MicrosoftVisualStudioProjects\WebApplicationEcommerce\WebShopServices\bin\Debug\netcoreapp2.1\WebShopServices.pdb
+D:\MicrosoftVisualStudioProjects\WebApplicationEcommerce\WebShopServices\bin\Debug\netcoreapp2.1\WebShopLibrary.dll
+D:\MicrosoftVisualStudioProjects\WebApplicationEcommerce\WebShopServices\bin\Debug\netcoreapp2.1\WebShopLibrary.pdb
+D:\MicrosoftVisualStudioProjects\WebApplicationEcommerce\WebShopServices\obj\Debug\netcoreapp2.1\WebShopServices.csprojAssemblyReference.cache
+D:\MicrosoftVisualStudioProjects\WebApplicationEcommerce\WebShopServices\obj\Debug\netcoreapp2.1\WebShopServices.csproj.CoreCompileInputs.cache
+D:\MicrosoftVisualStudioProjects\WebApplicationEcommerce\WebShopServices\obj\Debug\netcoreapp2.1\WebShopServices.AssemblyInfoInputs.cache
+D:\MicrosoftVisualStudioProjects\WebApplicationEcommerce\WebShopServices\obj\Debug\netcoreapp2.1\WebShopServices.AssemblyInfo.cs
+D:\MicrosoftVisualStudioProjects\WebApplicationEcommerce\WebShopServices\obj\Debug\netcoreapp2.1\WebShopServices.csproj.CopyComplete
+D:\MicrosoftVisualStudioProjects\WebApplicationEcommerce\WebShopServices\obj\Debug\netcoreapp2.1\WebShopServices.dll
+D:\MicrosoftVisualStudioProjects\WebApplicationEcommerce\WebShopServices\obj\Debug\netcoreapp2.1\WebShopServices.pdb
